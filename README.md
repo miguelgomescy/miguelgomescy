@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=754EFF&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754EFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+:D;My+name+is+Miguel+Gomes+:D;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+software+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
