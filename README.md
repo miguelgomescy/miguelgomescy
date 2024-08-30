@@ -22,8 +22,6 @@
 ">
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelgomescy&bg_color=000000&color=754EFF&line=754EFF&point=754EFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
