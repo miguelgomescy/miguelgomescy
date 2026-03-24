@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B0F14,50:2A2410,100:EAB308&section=header"
     alt=""
     style="width: 100%;"
   />
@@ -8,8 +8,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=1000&color=02F707&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Miguel+Gomes;Full+Stack+Developer;Welcome+to+my+GitHub+<3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Miguel+Gomes;Full+Stack+Developer;Welcome+to+my+GitHub+<3" alt="Typing SVG" />
   </a>
+</p>
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0B0F14,50:2A2410,100:EAB308&section=footer"
+    alt=""
+    style="width: 100%;"
+  />
 </p>
 
 Desenvolvedor de Software Full-Stack com foco em **Front-end e aplicações web**.  
@@ -80,7 +89,7 @@ Aplicativo mobile para recomendação de receitas personalizadas.
   
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0f2027,50:203a43,100:2c5364&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0B0F14,50:2A2410,100:EAB308&section=footer"
     alt=""
     style="width: 100%;"
   />
