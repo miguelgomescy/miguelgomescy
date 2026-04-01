@@ -52,7 +52,7 @@ Meu histórico profissional e projetos podem ser encontrados no
 
 ### Bancos de Dados
 
-[![Databases](https://skillicons.dev/icons?i=postgresql,sqlite,firebase,mysql&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgresql,sqlite,firebase,mysql,mongo&theme=dark)](https://skillicons.dev)
 
 
 ---
