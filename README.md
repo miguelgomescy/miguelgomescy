@@ -70,6 +70,9 @@ Meu histórico profissional e projetos podem ser encontrados no
 
 [![Other](https://skillicons.dev/icons?i=notion,npm,powershell,linux,mocha&theme=dark)](https://skillicons.dev)
 
+### Estudando:
+[![Study](https://skillicons.dev/icons?i=jenkins,linux,kotlinmocha&theme=dark)](https://skillicons.dev)
+
 ---
 
 ## Projetos em destaque
