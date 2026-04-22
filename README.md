@@ -31,9 +31,9 @@ Meu histórico profissional e projetos podem ser encontrados no
 ---
 
 ## O que estou fazendo agora
-- Desenvolvimento de um projeto multiplataforma no setor de jardinagem urbana o LeafON
+- Desenvolvimento de um projeto multiplataforma no setor de jardinagem urbana. (LeafON)
 - Desenvolvendo sites instucionais e landing pages.
-- Estudo em engenharia de software, cloud e automação.
+- Estudo em engenharia de software, cloud e backend.
 
 ---
 
